@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Alejandra 👋
 
-<!--
-**alejandracast2/alejandracast2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full Stack Developer | Exploring DevOps & Cloud
 
-Here are some ideas to get you started:
+I'm a software developer interested in building scalable applications, improving development workflows, and implementing cloud solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies
+
+**Frontend:** Angular, JavaScript, HTML, CSS  
+**Backend:** Node.js  
+**DevOps:** Docker, Kubernetes, Git, GitHub, CI/CD  
+**Cloud:** AWS, Oracle Cloud Infrastructure
+
+### 🎓 Education
+
+IBM Full Stack Application Development — MicroBachelors (edX)
+
+### 🚀 Currently Learning
+
+- AWS networking and cloud infrastructure
+- Infrastructure automation
+- CI/CD pipelines
+- Cloud deployment and DevOps practices
+
+### 📌 Featured Projects
+
+- **Joker Game:** Game development project
+- **Cloud Application:** Application with database integration
+
+### 🔗 Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/mar%C3%ADa-alejandra-casta%C3%B1eda-2218b4284/)
